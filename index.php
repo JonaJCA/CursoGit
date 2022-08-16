@@ -6,6 +6,10 @@
 	<title>CursoGIT</title>
 </head>
 <body>
-	
+	<h1>Hola Curso GIT</h1>
+
+	<p>
+		Esto es un párrafo de ejemplo
+	</p>
 </body>
 </html>
