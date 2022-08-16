@@ -6,7 +6,7 @@
 	<title>CursoGIT</title>
 	<link rel="stylesheet" type="text/css" href="css/estilos.css"/>
 </head>
-<body>
+<body class="body">
 	<h1>Hola Curso GIT</h1>
 
 	<p>
